@@ -1,0 +1,23 @@
+Unknown Character.
+
+
+value of expression in Jog: 3
+
+value of expression in Biug: 2
+
+value of expression in Gun: 15
+
+value of expression in Vag: 5
+
+To the power value: 9
+
+ODD NUMBER
+
+EVEN NUMBER
+
+value of expression in jodi: 1
+
+value of expression in othoba: 0
+
+value of expression middle jodi: 5
+syntax error

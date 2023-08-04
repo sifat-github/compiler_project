@@ -1,0 +1,37 @@
+@
+
+1+2
+
+6-4
+
+5x3
+
+10/2
+
+3^2
+
+5
+
+10
+
+if 1?
+	    hi 1 bye
+
+if 1<0?
+	    hi 1 bye
+     else
+            hi 0 bye
+
+    	if 2 > 1?
+	    hi
+	         if 1?
+	            hi 5 bye
+	         else
+	            hi 7 bye
+	    bye
+
+      else
+         hi 9 bye
+
+a=1+1
+
